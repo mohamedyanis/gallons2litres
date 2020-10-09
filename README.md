@@ -39,7 +39,7 @@ pip install tkinter
 5. Run the ```paint_app.py``` file.
 
 ## :information_source: Inmportant!
-This app is for beginners, you can change the mathematical process, use it as a conventer for everything. Just change the The relation between the two units you zqnt to convert. <br>
+This app is for beginners, you can change the mathematical process, use it as a conventer for everything. Just change the The relation between the two units you want to convert. <br>
 Change the relation in the line 7: <br>
 ```python
 var3 = var2 * 3.785
