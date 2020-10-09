@@ -22,9 +22,7 @@ Please :star: this repo to help us improve the quality.
 ## Screenshots
 Home           | Painting
 :---------------------:|:------------------:
-![screenshoot](screenshots/pa1.png) | ![screenshoot](screenshots/pa2.png)
-Colors         |  Result XD
-![screenshoot](screenshots/pa3.png) | ![screenshoot](screenshots/pa4.png)
+![screenshoot](screenshots/g2l1.png) | ![screenshoot](screenshots/g2l2.png)
 
 ## Requirements
 * python
