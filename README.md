@@ -38,7 +38,7 @@ pip install tkinter
 4. Extract the folder.
 5. Run the ```paint_app.py``` file.
 
-## :information_source: Inmportant!
+## :information_source: Important!
 This app is for beginners, you can change the mathematical process, use it as a conventer for everything. Just change the The relation between the two units you want to convert. <br>
 Change the relation in the line 7: <br>
 ```python
